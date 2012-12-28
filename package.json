@@ -1,6 +1,6 @@
 {
   "name": "sasl-xoauth2",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "JavaScript implementation of XOAUTH2 SASL mechanism.",
   "keywords": ["sasl", "oauth", "auth", "authn", "authentication", "security"],
   "repository": {
